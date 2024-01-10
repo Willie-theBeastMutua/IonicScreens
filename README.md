@@ -6,4 +6,8 @@
 5. T&C
 6. About Us
 7. Privacy Policy
+
+
+
+
 Share Function also implimented
