@@ -1,0 +1,88 @@
+<ion-header>
+  <ion-toolbar color="primary">
+    <!-- <div  > -->
+    <ion-buttons slot="start">
+      <ion-icon name="chevron-back-outline" class="profilebackbtns"></ion-icon>
+      <!-- <ion-back-button defaultHref="/"></ion-back-button> -->
+    </ion-buttons>
+    <ion-title class="custom-profileHeaders">Profile</ion-title>
+  </ion-toolbar>
+
+</ion-header>
+<ion-content class="profilepage" color="light" [fullscreen]="true">
+  <!-- color="light" -->
+  <div class="profilepic">
+    
+    <ion-avatar class="avatar">
+      <img src="https://ionicframework.com/docs/img/demos/avatar.svg">
+      <ion-icon name="pencil" class="edit-icon"></ion-icon>
+    </ion-avatar>
+    
+    <div style="display: flex;flex-direction:column; align-items: center;">
+      <h2 class="profilename">Wilson Mutua</h2>
+      <h3 class="profileemail">willymathuva&#64;gmail.com</h3>
+    </div>
+    </div>
+   
+  <h3>General Settings</h3>
+  <ion-list lines="none">
+    <ion-item>
+      <ion-icon name="contrast-sharp" slot="start" color="primary"></ion-icon>
+      <ion-toggle [enableOnOffLabels]="true" color="primary">
+        <ion-label style="font-weight: bold;">Mode</ion-label>
+        <ion-note color="primary">Dark & Light</ion-note>
+      </ion-toggle>
+      <!-- <ion-label color="primary">
+      <h2 style="font-weight: bold;">Mode</h2>
+      <ion-toggle justify="space-between" [enableOnOffLabels]="true">Dark & Light</ion-toggle>
+    </ion-label> -->
+    </ion-item>
+    <ion-item button routerLink="/change-password">
+      <ion-icon name="key-sharp" slot="start" aria-hidden="true" color="primary"></ion-icon>
+      <ion-label>Change Password</ion-label>
+      <ion-icon name="chevron-forward-sharp" slot="end" color="primary"></ion-icon>
+    </ion-item>
+    <ion-item button routerLink="/">
+      <ion-icon name="log-out-sharp" slot="start" color="primary"></ion-icon>
+
+      <ion-label color="primary">
+        logout </ion-label>
+      <ion-icon name="chevron-forward-sharp" slot="end" color="primary"></ion-icon>
+
+    </ion-item>
+  </ion-list>
+  <h3 color="medium">Information</h3>
+  <ion-list lines="none">
+    <ion-item button routerLink="/about-us">
+      <ion-icon name="phone-portrait-sharp" slot="start" aria-hidden="true" color="primary"></ion-icon>
+      <ion-label>About App</ion-label>
+      <ion-icon name="chevron-forward-sharp" slot="end" color="primary"></ion-icon>
+    </ion-item>
+    <ion-item button routerLink="/terms-nconditions">
+      <ion-icon name="document" slot="start" color="primary"></ion-icon>
+
+      <ion-label color="primary">
+        Terms & Conditions </ion-label>
+      <ion-icon name="chevron-forward-sharp" slot="end" color="primary"></ion-icon>
+
+    </ion-item>
+    <ion-item button routerLink="/privacy">
+      <ion-icon name="shield-half-outline" slot="start" color="primary"></ion-icon>
+
+      <ion-label color="primary">
+        Privacy Policy </ion-label>
+      <ion-icon name="chevron-forward-sharp" slot="end" color="primary"></ion-icon>
+
+    </ion-item>
+    <ion-item (click)="shareApp()">
+      <ion-icon name="share-social-outline" slot="start" color="primary"></ion-icon>
+
+      <ion-label color="primary">
+        Share This App </ion-label>
+      <ion-icon name="chevron-forward-sharp" slot="end" color="primary"></ion-icon>
+
+    </ion-item>
+  </ion-list>
+
+
+</ion-content>
