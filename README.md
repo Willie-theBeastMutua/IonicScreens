@@ -1,4 +1,4 @@
-**Reusable Ionic Screens**
+**Profile Ionic Screens**
 1. Login
 2. Profile
 3. Change Password
@@ -6,8 +6,5 @@
 5. T&C
 6. About Us
 7. Privacy Policy
-
-
-
 
 Share Function also implimented
