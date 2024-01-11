@@ -1,0 +1,7 @@
+{
+  "name": "DQA_SQA_Screens",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
