@@ -4,7 +4,7 @@
 
    ![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
    
-![](https://github.com/Willie-theBeastMutua/IonicScreens/blob/main/Screenshots/Screenshot_20240117-143401.png =250x250)
+![](https://github.com/Willie-theBeastMutua/IonicScreens/blob/main/Screenshots/Screenshot_20240117-143401.png  | width=100)
 
 4. Change Password
 
