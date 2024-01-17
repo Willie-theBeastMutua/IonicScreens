@@ -22,7 +22,9 @@
       <img src="https://github.com/Willie-theBeastMutua/IonicScreens/blob/main/Screenshots/Screenshot_20240117-143415.png" width="200" height="400" />
 
    8.Share Function also implimented
-      <img src="https://github.com/Willie-theBeastMutua/IonicScreens/blob/main/Screenshots/Screenshot_20240117-143425.png" width="200" height="400" />
+   
+   <img src="https://github.com/Willie-theBeastMutua/IonicScreens/blob/main/Screenshots/Screenshot_20240117-143425.png" width="200" height="400"/>
+
 
 **B. EDQA/SQA**
 
