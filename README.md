@@ -8,3 +8,7 @@
 7. Privacy Policy
 
 Share Function also implimented
+
+**EDQA/SQA**
+![Uploading Screenshot_20240111-095433.png…]()
+
