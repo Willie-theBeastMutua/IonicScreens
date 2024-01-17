@@ -2,7 +2,7 @@
 1. Login
 2. Profile
    
-![](https://github.com/Willie-theBeastMutua/IonicScreens/blob/main/Screenshots/Screenshot_20240117-143401.png)
+![](https://github.com/Willie-theBeastMutua/IonicScreens/blob/main/Screenshots/Screenshot_20240117-143401.png =250x250)
 
 4. Change Password
 
