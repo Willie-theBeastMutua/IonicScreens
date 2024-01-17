@@ -1,5 +1,5 @@
-<ion-header class="ion-no-border">
-  <ion-toolbar color=#fffff>
+<ion-header  class="ion-no-border">
+  <ion-toolbar color=#ffffff>
     <!-- <div  > -->
     <ion-buttons slot="start">
       <!-- <ion-icon name="chevron-back-outline" class="profilebackbtn" button routerLink="/"></ion-icon> -->
@@ -9,62 +9,65 @@
   </ion-toolbar>
 
 </ion-header>
+<!-- [fullscreen]="true" -->
+<ion-content >
+    <ion-card style="color: #ffffff;" class="facilitycard">
+      <ion-card-header>
+        <ion-card-title class="facilitytitle">Select Facillity</ion-card-title>
+      </ion-card-header>
+      <ion-buttons class="custom-button">
 
-<ion-content [fullscreen]="true">
-  <ion-card style="color: #ffffff;" class="facilitycard">
-    <ion-card-header>
-      <ion-card-title class="facilitytitle">Select Facillity</ion-card-title>
-    </ion-card-header>
-    <ion-buttons class="custom-button">
-
-      <ion-button>Select Facility </ion-button>
-    </ion-buttons>
-  </ion-card>
-  <div class="rowdiv">
-    <ion-card style="margin-right: 20px;" class="clickcard">
-      <img class="cardimg" src="assets\images\Action-Plan.png">
-      <h3 class="cardtext">Action Plan</h3>
+        <ion-button>Select Facility </ion-button>
+      </ion-buttons>
+      
     </ion-card>
+    <div class="divCards">
+    <div class="rowdiv">
+      <ion-card style="margin-right: 20px;" class="clickcard">
+        <img class="cardimg" src="assets\images\Action-Plan.png">
+        <h3 class="cardtext">Action Plan</h3>
+      </ion-card>
 
-    <ion-card class="clickcard">
-      <img class="cardimg" src="assets\images\Team.png">
-      <h3 class="cardtext">Teams</h3>
-    </ion-card>
-
-
-    
-    
-  </div>
-
-  <div class="rowdiv">
-    <ion-card style="margin-right: 20px;" class="clickcard">
-      <img class="cardimg" src="assets\images\Reopen.png">
-      <h3 class="cardtext">Close/Reopen</h3>
-    </ion-card>
-
-    <ion-card class="clickcard">
-      <img class="cardimg" src="assets\images\Reports.png">
-      <h3 class="cardtext">Reports</h3>
-    </ion-card>
+      <ion-card class="clickcard">
+        <img class="cardimg" src="assets\images\Team.png">
+        <h3 class="cardtext">Teams</h3>
+      </ion-card>
 
 
-    
-    
-  </div>
-
-  <div class="rowdiv">
-    <ion-card style="margin-right: 20px;" class="clickcard">
-      <img class="cardimg" src="assets\images\drone.png">
-      <h3 class="cardtext">Send</h3>
-    </ion-card>
-
-    <ion-card class="clickcard">
-      <img class="cardimg" src="assets\images\drone.png">
-      <h3 class="cardtext">Send</h3>
-    </ion-card>
 
 
-    
-    
+    </div>
+
+    <div class="rowdiv">
+      <ion-card style="margin-right: 20px;" class="clickcard">
+        <img class="cardimg" src="assets\images\Reopen.png">
+        <h3 class="cardtext">Close/Reopen</h3>
+      </ion-card>
+
+      <ion-card class="clickcard">
+        <img class="cardimg" src="assets\images\Reports.png">
+        <h3 class="cardtext">Reports</h3>
+      </ion-card>
+
+
+
+
+    </div>
+
+    <div class="rowdiv">
+      <ion-card style="margin-right: 20px;" class="clickcard">
+        <img class="cardimg" src="assets\images\drone.png">
+        <h3 class="cardtext">Send</h3>
+      </ion-card>
+
+      <ion-card class="clickcard">
+        <img class="cardimg" src="assets\images\drone.png">
+        <h3 class="cardtext">Send</h3>
+      </ion-card>
+
+
+
+
+    </div>
   </div>
 </ion-content>
