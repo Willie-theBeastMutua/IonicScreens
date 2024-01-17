@@ -1,4 +1,4 @@
-**Profile Ionic Screens**
+**A. Profile Ionic Screens**
 1. Login
 2. Profile
 
@@ -25,8 +25,7 @@ Share Function also implimented
 
 <img src="https://github.com/Willie-theBeastMutua/IonicScreens/blob/main/Screenshots/Screenshot_20240117-143425.png" width="200" height="400" />
 
-
-**EDQA/SQA**
+**B. EDQA/SQA**
 
 <img src="https://github.com/Willie-theBeastMutua/IonicScreens/blob/main/Screenshots/Screenshot_20240111-095433.png" width="200" height="400" />
 
