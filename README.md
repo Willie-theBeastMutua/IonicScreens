@@ -10,5 +10,5 @@
 Share Function also implimented
 
 **EDQA/SQA**
-![Uploading Screenshot_20240111-095433.png…]()
+![Uploading Screenshot_20240111-095433.png…](https://github.com/Willie-theBeastMutua/IonicScreens/blob/main/Screenshots/Screenshot_20240111-095433.png)
 
