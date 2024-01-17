@@ -2,7 +2,7 @@
 1. Login
 2. Profile
 
-   ![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
+   <img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
    
 ![](https://github.com/Willie-theBeastMutua/IonicScreens/blob/main/Screenshots/Screenshot_20240117-143401.png  | width=100)
 
